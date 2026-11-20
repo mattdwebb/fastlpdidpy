@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+*.Rcheck/
+*.tar.gz
+.Rhistory
+oracle/ado/
+*.log
+*.smcl

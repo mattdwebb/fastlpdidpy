@@ -1,0 +1,9 @@
+{
+  "package": "fastlpdidpy",
+  "estimate": 1.6012793858325456,
+  "native_se": 0.33123447070641865,
+  "jackknife_se": 0.36569901206060756,
+  "jackknife_p": 0.0011015227286772346,
+  "clusters": 12,
+  "jackknife_df": 11
+}

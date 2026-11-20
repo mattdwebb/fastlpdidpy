@@ -1,0 +1,5 @@
+Estimate: 1.601279 score points
+Native clustered SE: 0.331234
+Delete-school jackknife SE: 0.365699
+Jackknife p-value: 0.001102
+Schools: 12; jackknife reference: t(11)
